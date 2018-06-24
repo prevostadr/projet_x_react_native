@@ -1,0 +1,33 @@
+/*{
+    "env": {
+        "node": true, // this is the best starting point
+        "browser": true, // for react web
+        "es6": true // enables es6 features
+    },
+    "parser": "babel-eslint", // needed to make babel stuff work properly
+    "extends": "airbnb"
+}*/
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "react",
+    "react-native"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+        "jsx": true,
+        "modules": true
+    }
+  },
+  "extends" : [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "airbnb-base"
+  ],
+  "globals": {
+    "window": true
+  }
+/*  "rules" : {
+    "arrow-body-style" : 'warn'
+  }*/
+}

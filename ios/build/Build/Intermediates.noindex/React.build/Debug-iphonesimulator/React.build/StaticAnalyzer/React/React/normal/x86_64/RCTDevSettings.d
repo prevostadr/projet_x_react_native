@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/sulman/Desktop/cours-epitech/React-Native/mercredi/ProjetX-react-native/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
