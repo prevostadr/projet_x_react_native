@@ -1,6 +1,6 @@
 # Projet X - Play video & upload video from your device to youtube channel
 
-## 1.  git clone https://github.com/sulmanbashir/projetx-react-native.git
+## 1.  git clone https://github.com/prevostadr/projet_x_react_native
 ## 2.  Run these command :
 ###    cd projetx-react-native
 ###    npm install
